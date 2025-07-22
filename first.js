@@ -15,3 +15,6 @@ console.log(upi);
 
 
 console.log("Latest update");
+
+//i m fixing some bug
+console.log("Bug Fixed");
